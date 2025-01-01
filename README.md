@@ -2,12 +2,6 @@
 Update README in staging branch staging2
 
 1.1.2025 - staging branch
+Final content from both branches
+2ntuan - main
 
-Change file and check pull from Github
-Change file and check pull from Github2
-
-Dev2n change readme and create 1 new file dev2n.txt
-
-This is a conflicting change from main branch.
-devtuan
-main - main
